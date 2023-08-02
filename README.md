@@ -3,7 +3,7 @@
 Before I went to the NaviSoft firm for an interview, I created this quick app to practise C Sharp and WPF.  
 It adheres to the Pikachu game's fundamental logic. The rules of the game are rather simple: there are 16 cells, 
 8 pairs of identical photographs, two identical photographs are chosen, and those two photographs disappear.  
-The object of the g is to remove every tile in the shortest amount of time possible.  
+The object of the game is to remove every tile in the shortest amount of time possible.  
 Good luck.
 
 <p align="center">
