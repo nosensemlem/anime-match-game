@@ -1,6 +1,6 @@
 # Anime Match Game
 
-Before I went to the NaviSoft firm for an interview, I created this quick app to practise C Sharp and WPF.  
+Before I went to the firm for an interview, I created this quick app to practise C Sharp and WPF.  
 It adheres to the Pikachu game's fundamental logic. The rules of the game are rather simple: there are 16 cells, 
 8 pairs of identical photographs, two identical photographs are chosen, and those two photographs disappear.  
 The object of the game is to remove every tile in the shortest amount of time possible.  
