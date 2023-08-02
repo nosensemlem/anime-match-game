@@ -1,0 +1,21 @@
+C:\Users\Vu Doan\Documents\head-first-c-sharp\Animal Matching Game\Animal Matching Game\obj\Debug\net6.0-windows\Animal Matching Game.csproj.AssemblyReference.cache
+C:\Users\Vu Doan\Documents\head-first-c-sharp\Animal Matching Game\Animal Matching Game\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Vu Doan\Documents\head-first-c-sharp\Animal Matching Game\Animal Matching Game\obj\Debug\net6.0-windows\Animal Matching Game_MarkupCompile.cache
+C:\Users\Vu Doan\Documents\head-first-c-sharp\Animal Matching Game\Animal Matching Game\bin\Debug\net6.0-windows\Animal Matching Game.exe
+C:\Users\Vu Doan\Documents\head-first-c-sharp\Animal Matching Game\Animal Matching Game\bin\Debug\net6.0-windows\Animal Matching Game.deps.json
+C:\Users\Vu Doan\Documents\head-first-c-sharp\Animal Matching Game\Animal Matching Game\bin\Debug\net6.0-windows\Animal Matching Game.runtimeconfig.json
+C:\Users\Vu Doan\Documents\head-first-c-sharp\Animal Matching Game\Animal Matching Game\bin\Debug\net6.0-windows\Animal Matching Game.dll
+C:\Users\Vu Doan\Documents\head-first-c-sharp\Animal Matching Game\Animal Matching Game\bin\Debug\net6.0-windows\Animal Matching Game.pdb
+C:\Users\Vu Doan\Documents\head-first-c-sharp\Animal Matching Game\Animal Matching Game\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Vu Doan\Documents\head-first-c-sharp\Animal Matching Game\Animal Matching Game\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Vu Doan\Documents\head-first-c-sharp\Animal Matching Game\Animal Matching Game\obj\Debug\net6.0-windows\Animal Matching Game.g.resources
+C:\Users\Vu Doan\Documents\head-first-c-sharp\Animal Matching Game\Animal Matching Game\obj\Debug\net6.0-windows\Animal Matching Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vu Doan\Documents\head-first-c-sharp\Animal Matching Game\Animal Matching Game\obj\Debug\net6.0-windows\Animal Matching Game.AssemblyInfoInputs.cache
+C:\Users\Vu Doan\Documents\head-first-c-sharp\Animal Matching Game\Animal Matching Game\obj\Debug\net6.0-windows\Animal Matching Game.AssemblyInfo.cs
+C:\Users\Vu Doan\Documents\head-first-c-sharp\Animal Matching Game\Animal Matching Game\obj\Debug\net6.0-windows\Animal Matching Game.csproj.CoreCompileInputs.cache
+C:\Users\Vu Doan\Documents\head-first-c-sharp\Animal Matching Game\Animal Matching Game\obj\Debug\net6.0-windows\Animal Matching Game.dll
+C:\Users\Vu Doan\Documents\head-first-c-sharp\Animal Matching Game\Animal Matching Game\obj\Debug\net6.0-windows\refint\Animal Matching Game.dll
+C:\Users\Vu Doan\Documents\head-first-c-sharp\Animal Matching Game\Animal Matching Game\obj\Debug\net6.0-windows\Animal Matching Game.pdb
+C:\Users\Vu Doan\Documents\head-first-c-sharp\Animal Matching Game\Animal Matching Game\obj\Debug\net6.0-windows\Animal Matching Game.genruntimeconfig.cache
+C:\Users\Vu Doan\Documents\head-first-c-sharp\Animal Matching Game\Animal Matching Game\obj\Debug\net6.0-windows\ref\Animal Matching Game.dll
+C:\Users\Vu Doan\Documents\head-first-c-sharp\Animal Matching Game\Animal Matching Game\obj\Debug\net6.0-windows\Animal Matching Game_MarkupCompile.lref
